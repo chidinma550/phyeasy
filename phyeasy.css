@@ -1,0 +1,32 @@
+body{
+    background-color: whitesmoke;
+    border-width: 20px;
+    border-style: double;
+    border-color: blue;
+  }
+  h1{
+    color: blue;
+    font-size: 100px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+  }
+  h3{
+    color: blue;
+    font-size: 90px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif
+  }
+  em{
+    font-weight: bolder;
+  }
+  
+  button{
+    background-color:white;
+    font-size: 90px;
+    border-style: dashed;
+    font-family: Georgia, 'Times New Roman', Times, serif
+  }
+  
+  
+    

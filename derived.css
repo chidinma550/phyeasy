@@ -1,0 +1,42 @@
+h1{
+  color: blue;
+  font-size: 90px;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h4{
+  font-size: 50px;
+  text-align: justify;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+strong{
+  color: blueviolet;
+  text-align: left;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+button{
+  font-size: 80px;
+  color: blue;
+}
+table {
+  table-layout: fixed;
+  width: 100%;
+  border-collapse: separate;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+table th td {
+  border: 4px solid black;
+}
+th td {
+  padding: 3px;
+  text-align: center;
+}
+thead th:nth-child(1){
+  width: 30%;
+}
+thead th:nth :nth-child(2){
+  width:30%;
+}
+thead th:nth-child(3){
+  width: 40%;
+}
